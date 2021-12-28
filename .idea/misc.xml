@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pemel/AndroidStudioProjects/Emelyanovv18/app/src/main/res/drawable/circle_bg.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/pemel/AndroidStudioProjects/Emelyanovv18/app/src/main/res/drawable/mini_rounded_button.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/pemel/AndroidStudioProjects/Emelyanovv18/app/src/main/res/drawable/rounded_button_bg_purple.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/pemel/AndroidStudioProjects/Emelyanovv18/app/src/main/res/drawable/rounded_textbox.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/pemel/AndroidStudioProjects/Emelyanovv18/app/src/main/res/layout/activity_main.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/pemel/AndroidStudioProjects/Emelyanovv18/app/src/main/res/layout/activity_song.xml" value="0.1578125" />
+        <entry key="..\:/Users/pemel/AndroidStudioProjects/Emelyanovv18/app/src/main/res/layout/cam.xml" value="0.136" />
+        <entry key="..\:/Users/pemel/AndroidStudioProjects/Emelyanovv18/app/src/main/res/layout/song.xml" value="0.2" />
+        <entry key="..\:/Users/pemel/AndroidStudioProjects/Emelyanovv18/app/src/main/res/layout/start.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

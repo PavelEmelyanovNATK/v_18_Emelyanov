@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/image"
+        android:src="@drawable/camera_bg"
+        android:scaleType="fitXY"
+        />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginHorizontal="46dp"
+        android:layout_marginVertical="35dp">
+
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/circle_bg"
+            android:backgroundTint="@color/light_blue"/>
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:background="@drawable/circle_bg"
+            android:backgroundTint="@color/dark_blue"/>
+
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical|end"
+            android:background="@drawable/circle_bg"
+            android:backgroundTint="#FF97A1F5"/>
+
+    </FrameLayout>
+</FrameLayout>
